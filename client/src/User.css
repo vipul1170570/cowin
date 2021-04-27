@@ -1,0 +1,17 @@
+.User{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.information input {
+    width: 300px;
+    height: 25px;
+}
